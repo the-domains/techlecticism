@@ -1,0 +1,28 @@
+name: Techlecticism
+favicon: null
+layout_spectrum: 0.6543693833518773
+typography_spectrum: 0.32600950612686574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03265466261655092
+  lightness: 0.837865131907165
+  saturation: 0.6267144235316664
+  rhythmicContrast: 0.7934902436099946
+purpose: []
