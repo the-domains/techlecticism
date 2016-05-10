@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Techlecticism]]></title>
+        <description><![CDATA[Techlecticism]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 15:03:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Be proud of your passion]]></title>
+            <description><![CDATA[<article><h1>Be proud of your passion</h1><p>While munching away, we decided it was fun to play36 questions. A get to know your date questionnaire.</p></article>]]></description>
+            <link>undefinedbe-proud-of-your-passion/index.html</link>
+            <guid isPermaLink="false">b4d6417c-e721-4c8b-97e2-73456f93f396</guid>
+            <pubDate>Tue, 10 May 2016 15:02:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
