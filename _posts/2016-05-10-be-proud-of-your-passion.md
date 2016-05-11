@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'While munching away, we decided it was fun to play36 questions. A get to know your date questionnaire.'
-datePublished: '2016-05-10T15:02:20.256Z'
-dateModified: '2016-05-10T15:02:13.225Z'
+description: 'While munching away, we decided it was fun to play 36 questions. A get to know your date questionnaire.'
+datePublished: '2016-05-11T13:29:55.501Z'
+dateModified: '2016-05-10T15:14:56.240Z'
 title: Be proud of your passion
 author: []
+sourcePath: _posts/2016-05-10-be-proud-of-your-passion.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-be-proud-of-your-passion.md
 url: be-proud-of-your-passion/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 
 A few weeks ago I was having dinner with my girlfriend. Somehow she showed me a treasure trove of hidden potential.
 
-While munching away, we decided it was fun to play[36 questions][0]. A get to know your date questionnaire.
+While munching away, we decided it was fun to play [36 questions][0]. A get to know your date questionnaire.
 
 Though I thought we would know each other after 3 years, I still learned a lot.
 
